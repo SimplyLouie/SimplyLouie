@@ -9,10 +9,12 @@
 ---
 Building secure systems and streamlining workflows for modern teams.
 
-[![Website](https://img.shields.io/badge/Website-Visit-111827?style=flat-square)](https://louie.mendezdev.online/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louie-mendez/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SimplyLouie)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mendezlouie@ymail.com)
+[![Website](https://img.shields.io/badge/Website-Visit-111827?style=flat-square&logo=googlechrome&logoColor=white)](https://louie.mendezdev.online/)
+<a href="https://www.linkedin.com/in/louie-mendez/"><img src="https://skillicons.dev/icons?i=linkedin" height="35" /></a>
+<a href="https://github.com/SimplyLouie"><img src="https://skillicons.dev/icons?i=github" height="35" /></a>
+<a href="mailto:louie.mendez@icloud.com"><img src="https://skillicons.dev/icons?i=gmail" height="35" /></a>
+
+
 
 </div>
 
@@ -29,36 +31,19 @@ I help teams work **securely and efficiently** by improving IT operations, autom
 
 ## 🛠️ Tech Stack & Expertise
 
-### 🛡️ Identity & Security
+<div align="left">
+
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter,nodejs,bash,slack,apple,windows&perline=6)](https://skillicons.dev)
+
+</div>
+
+### 🛡️ Identity & Automation
 <div align="left">
 
 ![Okta](https://img.shields.io/badge/Okta-007DC1?style=for-the-badge&logo=okta&logoColor=white)
-![SAML](https://img.shields.io/badge/SAML-334155?style=for-the-badge)
-![SCIM](https://img.shields.io/badge/SCIM-111827?style=for-the-badge)
-![OAuth](https://img.shields.io/badge/OAuth-2563eb?style=for-the-badge)
-![Zero Trust](https://img.shields.io/badge/Zero%20Trust-991b1b?style=for-the-badge)
-
-</div>
-
-### ⚙️ Automation & Integration
-<div align="left">
-
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Google Workspace](https://img.shields.io/badge/Google%20Workspace-EA4335?style=for-the-badge&logo=googleworkspace&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-
-</div>
-
-### ☁️ Infrastructure & Endpoint
-<div align="left">
-
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![JAMF](https://img.shields.io/badge/JAMF-000000?style=for-the-badge&logo=jamf&logoColor=white)
-![JumpCloud](https://img.shields.io/badge/JumpCloud-2F6FED?style=for-the-badge)
-![Apple](https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google%20Workspace-EA4335?style=for-the-badge&logo=googleworkspace&logoColor=white)
 
 </div>
 
@@ -77,6 +62,12 @@ I help teams work **securely and efficiently** by improving IT operations, autom
 ## 📈 Activity & Stats
 
 <div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SimplyLouie&show_icons=true&theme=tokyonight&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=SimplyLouie&show_icons=true&theme=default&hide_border=true">
+  <img alt="GitHub Stats Boris" src="https://github-readme-stats.vercel.app/api?username=SimplyLouie&show_icons=true&theme=default&hide_border=true">
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SimplyLouie&layout=donut&theme=tokyonight&hide_border=true">
