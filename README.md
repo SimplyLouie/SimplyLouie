@@ -33,7 +33,7 @@ I help teams work **securely and efficiently** by improving IT operations, autom
 
 <div align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter,nodejs,bash,apple,windows&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,js,react,vue,html,css,tailwind,ts,vercel,nodejs,bash,apple,windows&perline=6)](https://skillicons.dev)
 
 </div>
 
