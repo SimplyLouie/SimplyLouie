@@ -84,9 +84,9 @@ I help teams work **securely and efficiently** by improving IT operations, autom
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SimplyLouie&show_icons=true&theme=tokyonight&count_private=true&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=SimplyLouie&show_icons=true&theme=default&count_private=true&hide_border=true">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SimplyLouie&show_icons=true&theme=default&count_private=true&hide_border=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SimplyLouie&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SimplyLouie&theme=default">
+  <img alt="GitHub Profile Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SimplyLouie&theme=default">
 </picture>
 
 <picture>
