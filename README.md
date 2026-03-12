@@ -90,7 +90,8 @@ I help teams work **securely and efficiently** by improving IT operations, autom
 </div>
 
 ### 📊 Weekly Coding Breakdown
-<!--WAKATIME-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 ### 🕒 Recent Activity
