@@ -80,8 +80,8 @@ I help teams work **securely and efficiently** by improving IT operations, autom
 
 
 ### 🕒 Recent Activity
-<!-- START_SECTION:activity -->
-<!-- END_SECTION:activity -->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
