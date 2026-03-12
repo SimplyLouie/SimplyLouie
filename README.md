@@ -33,7 +33,7 @@ I help teams work **securely and efficiently** by improving IT operations, autom
 
 <div align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter,nodejs,bash,slack,apple,windows&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter,nodejs,bash,apple,windows&perline=6)](https://skillicons.dev)
 
 </div>
 
@@ -42,6 +42,7 @@ I help teams work **securely and efficiently** by improving IT operations, autom
 
 ![Okta](https://img.shields.io/badge/Okta-007DC1?style=for-the-badge&logo=okta&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![JAMF](https://img.shields.io/badge/JAMF-000000?style=for-the-badge&logo=jamf&logoColor=white)
 ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-EA4335?style=for-the-badge&logo=googleworkspace&logoColor=white)
 
