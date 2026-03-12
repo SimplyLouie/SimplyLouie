@@ -87,6 +87,10 @@ I help teams work **securely and efficiently** by improving IT operations, autom
   <img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=simplylouie&theme=default&layout=compact&hide_border=true">
 </picture>
 
+<a href="https://discord.com/users/284276567960584192">
+  <img src="https://lanyard.vercel.app/api/284276567960584192" alt="Discord Status" />
+</a>
+
 </div>
 
 ### 📊 Weekly Coding Breakdown
