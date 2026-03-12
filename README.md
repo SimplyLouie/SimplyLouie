@@ -40,7 +40,6 @@ I help teams work **securely and efficiently** by improving IT operations, autom
 ### 🛡️ Identity & Automation
 <div align="left">
 
-![Okta](https://img.shields.io/badge/Okta-007DC1?style=for-the-badge&logo=okta&logoColor=white)
 ![Okta IAM](https://img.shields.io/badge/Okta%20IAM-111827?style=for-the-badge&logo=okta&logoColor=white)
 ![SCIM](https://img.shields.io/badge/SCIM-334155?style=for-the-badge)
 ![SAML](https://img.shields.io/badge/SAML-1F2937?style=for-the-badge)
