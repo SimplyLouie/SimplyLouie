@@ -40,11 +40,15 @@ I help teams work **securely and efficiently** by improving IT operations, autom
 ### 🛡️ Identity & Automation
 <div align="left">
 
+![Okta Workflows](https://img.shields.io/badge/Okta%20Workflows-007DC1?style=for-the-badge&logo=okta&logoColor=white)
 ![Okta IAM](https://img.shields.io/badge/Okta%20IAM-111827?style=for-the-badge&logo=okta&logoColor=white)
 ![SCIM](https://img.shields.io/badge/SCIM-334155?style=for-the-badge)
 ![SAML](https://img.shields.io/badge/SAML-1F2937?style=for-the-badge)
 ![OAuth](https://img.shields.io/badge/OAuth-2563EB?style=for-the-badge)
+![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-0078D6?style=for-the-badge&logo=microsoft365&logoColor=white)
+![Microsoft Entra ID](https://img.shields.io/badge/Microsoft%20Entra%20ID-0078D6?style=for-the-badge&logo=microsoftentra&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Make.com](https://img.shields.io/badge/Make.com-FF3E00?style=for-the-badge&logo=make&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 </div>
