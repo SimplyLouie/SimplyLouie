@@ -81,7 +81,16 @@ I help teams work **securely and efficiently** by improving IT operations, autom
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimplyLouie&layout=donut&theme=default&hide_border=true">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=simplylouie&theme=tokyonight&layout=compact&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=simplylouie&theme=default&layout=compact&hide_border=true">
+  <img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=simplylouie&theme=default&layout=compact&hide_border=true">
+</picture>
+
 </div>
+
+### 📊 Weekly Coding Breakdown
+<!--WAKATIME-->
 
 
 ### 🕒 Recent Activity
