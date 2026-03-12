@@ -88,7 +88,7 @@ I help teams work **securely and efficiently** by improving IT operations, autom
 </picture>
 
 <a href="https://discord.com/users/284276567960584192">
-  <img src="https://lanyard.vercel.app/api/284276567960584192" alt="Discord Status" />
+  <img src="https://lanyard.rest/api/284276567960584192" alt="Discord Status" />
 </a>
 
 </div>
