@@ -3,7 +3,7 @@
 # 👋 Hello, I'm Louie Mendez
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!;Let's+build+something+great!;IT+Operations+%2B+Automation)](https://git.io/typing-svg)
 
-### Senior IT Administrator • Automation Engineer • Identity & Access
+### Senior IT Administrator • Automation Engineer
 
 
 ---
@@ -33,7 +33,7 @@ I help teams work **securely and efficiently** by improving IT operations, autom
 
 <div align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,js,react,vue,html,css,tailwind,ts,vercel,nodejs,bash,apple,windows&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,js,react,vue,html,css,tailwind,ts,vercel,nodejs,bash&perline=6)](https://skillicons.dev)
 
 </div>
 
@@ -41,24 +41,26 @@ I help teams work **securely and efficiently** by improving IT operations, autom
 <div align="left">
 
 ![Okta](https://img.shields.io/badge/Okta-007DC1?style=for-the-badge&logo=okta&logoColor=white)
+![Okta IAM](https://img.shields.io/badge/Okta%20IAM-111827?style=for-the-badge&logo=okta&logoColor=white)
+![SCIM](https://img.shields.io/badge/SCIM-334155?style=for-the-badge)
+![SAML](https://img.shields.io/badge/SAML-1F2937?style=for-the-badge)
+![OAuth](https://img.shields.io/badge/OAuth-2563EB?style=for-the-badge)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![JAMF](https://img.shields.io/badge/JAMF-000000?style=for-the-badge&logo=jamf&logoColor=white)
-![Google Workspace](https://img.shields.io/badge/Google%20Workspace-EA4335?style=for-the-badge&logo=googleworkspace&logoColor=white)
 
 </div>
 
----
+### ☁️ Managed Cloud & Endpoint
+<div align="left">
 
-## 📂 Featured Projects
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![JAMF](https://img.shields.io/badge/JAMF-000000?style=for-the-badge&logo=jamf&logoColor=white)
+![Kandji](https://img.shields.io/badge/Kandji-007DC1?style=for-the-badge)
+![JumpCloud](https://img.shields.io/badge/JumpCloud-2F6FED?style=for-the-badge)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Apple](https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **[Temporary Admin Access](https://github.com/SimplyLouie/jit-access-system)** | Slack-based tool for JIT admin rights with secure approval. | n8n, Slack, Okta |
-| **[One-Click Offboarding](https://github.com/SimplyLouie/automated-offboarding)** | Automated workflow securing employee exits across SaaS. | n8n, Google, Okta |
-| **[Automation Playbooks](https://github.com/SimplyLouie/automation-playbooks)** | Collection of internal workflow concepts and templates. | n8n, API, Logic |
-
----
+</div>
 
 ## 📈 Activity & Stats
 
