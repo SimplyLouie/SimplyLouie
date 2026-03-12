@@ -2,7 +2,7 @@
 
 ![Header Banner](assets/banner.png)
 
-# Louie Jemmiel Mendez
+# Louie Mendez
 
 ### Senior IT Administrator • IT Operations • Automation • Identity & Access
 
@@ -43,7 +43,7 @@ I help teams work **securely and efficiently** by improving IT operations, autom
 <div align="left">
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6d28d9?style=for-the-badge)
+![Google Workspace](https://img.shields.io/badge/Google%20Workspace-EA4335?style=for-the-badge&logo=googleworkspace&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
