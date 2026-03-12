@@ -79,10 +79,14 @@ I help teams work **securely and efficiently** by improving IT operations, autom
 
 <div align="center">
 
-[![Top Langs (Light)](https://github-readme-stats.vercel.app/api/top-langs/?username=SimplyLouie&layout=donut&theme=default&hide_border=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs (Dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=SimplyLouie&layout=donut&theme=tokyonight&hide_border=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SimplyLouie&layout=donut&theme=tokyonight&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SimplyLouie&layout=donut&theme=default&hide_border=true">
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimplyLouie&layout=donut&theme=default&hide_border=true">
+</picture>
 
 </div>
+
 
 ### 🕒 Recent Activity
 <!-- START_SECTION:activity -->
