@@ -65,6 +65,20 @@ I help teams work **securely and efficiently** by improving IT operations, autom
 
 </div>
 
+## ⚡ Automation & Workflow Design
+
+<div align="center">
+  <img src="file:///Users/louie.mendez/.gemini/antigravity/brain/3e4b99f6-8517-46ea-b0b1-746161805cc8/n8n_workflow_mockup_1773330026537.png" alt="n8n Workflow Design" width="800">
+</div>
+
+*I specialize in architecting complex, high-performance backends using **low-code** and **no-code** methodologies. I bridge the gap between traditional IT infrastructure and modern web applications through advanced automation.*
+
+### 🛠️ Automation Capability
+- **Backend Orchestration**: Designing event-driven architectures with **n8n** and **Webhooks**.
+- **Data Transformation**: Expert in **JSON** processing and **REST API** integrations.
+- **Full-Stack Automation**: Building "web functional" apps that connect user interfaces to automated backend logic.
+- **Enterprise Scale**: Managing 50+ active workflows with high uptime and error-handling.
+
 ## 📈 Activity & Stats
 
 <div align="center">
