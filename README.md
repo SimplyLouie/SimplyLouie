@@ -79,7 +79,8 @@ I help teams work **securely and efficiently** by improving IT operations, autom
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimplyLouie&layout=donut&theme=tokyonight&hide_border=true)
+[![Top Langs (Light)](https://github-readme-stats.vercel.app/api/top-langs/?username=SimplyLouie&layout=donut&theme=default&hide_border=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs (Dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=SimplyLouie&layout=donut&theme=tokyonight&hide_border=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
