@@ -91,6 +91,11 @@ I help teams work **securely and efficiently** by improving IT operations, autom
 
 ### 📊 Weekly Coding Breakdown
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 
