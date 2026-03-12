@@ -7,7 +7,6 @@
 
 
 ---
-a
 Building secure systems and streamlining workflows for modern teams.
 
 [![Website](https://img.shields.io/badge/Website-Visit-111827?style=flat-square)](https://louie.mendezdev.online/)
