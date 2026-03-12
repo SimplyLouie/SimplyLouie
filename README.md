@@ -1,10 +1,11 @@
 <div align="center">
 
-![Header Banner](assets/banner.png)
+# 🛠️ IT Operations & Automation Specialist
+### Louie Mendez
 
-# Louie Mendez
+**Senior IT Administrator • Automation Engineer • Identity & Access**
 
-### Senior IT Administrator • IT Operations • Automation • Identity & Access
+---
 
 Building secure systems and streamlining workflows for modern teams.
 
@@ -78,7 +79,6 @@ I help teams work **securely and efficiently** by improving IT operations, autom
 <div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimplyLouie&layout=compact&theme=tokyonight&hide_border=true)
-
 
 </div>
 
