@@ -9,10 +9,10 @@
 ---
 Building secure systems and streamlining workflows for modern teams.
 
-[![Website](https://img.shields.io/badge/Website-Visit-111827?style=flat-square&logo=googlechrome&logoColor=white)](https://louie.mendezdev.online/)
-<a href="https://www.linkedin.com/in/louie-mendez/"><img src="https://skillicons.dev/icons?i=linkedin" height="35" /></a>
-<a href="https://github.com/SimplyLouie"><img src="https://skillicons.dev/icons?i=github" height="35" /></a>
-<a href="mailto:louie.mendez@icloud.com"><img src="https://skillicons.dev/icons?i=gmail" height="35" /></a>
+[![Website](https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://louie.mendezdev.online/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louie-mendez/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SimplyLouie)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:louie.mendez@icloud.com)
 
 
 
