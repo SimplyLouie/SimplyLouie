@@ -79,7 +79,7 @@ I help teams work **securely and efficiently** by improving IT operations, autom
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimplyLouie&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimplyLouie&layout=donut&theme=tokyonight&hide_border=true)
 
 </div>
 
