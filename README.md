@@ -118,11 +118,6 @@ Markdown   1 min                 ███████▒░░░░░░░�
 <!--END_SECTION:waka-->
 
 
-### 🕒 Recent Activity
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/SimplyLouie/qr-generator/pull/1) in [SimplyLouie/qr-generator](https://github.com/SimplyLouie/qr-generator)
-2. 💪 Opened PR [#1](https://github.com/SimplyLouie/qr-generator/pull/1) in [SimplyLouie/qr-generator](https://github.com/SimplyLouie/qr-generator)
-<!--END_SECTION:activity-->
 
 ---
 
