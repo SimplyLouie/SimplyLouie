@@ -109,12 +109,47 @@ I help teams work **securely and efficiently** by improving IT operations, autom
 
 ### 📊 Weekly Coding Breakdown
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2018%20mins-blue?style=flat)
 
-```txt
-YAML       2 mins                █████████████████▓░░░░░░░   70.24 %
-Markdown   1 min                 ███████▒░░░░░░░░░░░░░░░░░   29.76 %
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                349 commits         ████████████░░░░░░░░░░░░░   48.68 % 
+🌆 Daytime                40 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+🌃 Evening                106 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+🌙 Night                  222 commits         ████████░░░░░░░░░░░░░░░░░   30.96 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+Tuesday                  55 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+Wednesday                91 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+Thursday                 90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+Friday                   197 commits         ███████░░░░░░░░░░░░░░░░░░   27.48 % 
+Saturday                 207 commits         ███████░░░░░░░░░░░░░░░░░░   28.87 % 
+Sunday                   61 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Manila
+
+💬 Programming Languages: 
+YAML                     2 mins              ██████████████████░░░░░░░   70.24 % 
+Markdown                 1 min               ███████░░░░░░░░░░░░░░░░░░   29.76 % 
+
+🔥 Editors: 
+Antigravity              3 mins              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      3 mins              █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 13/03/2026 03:45:39 UTC
 <!--END_SECTION:waka-->
 
 
