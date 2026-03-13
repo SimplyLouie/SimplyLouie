@@ -2,7 +2,6 @@ name: WakaTime Stats
 
 on:
   schedule:
-    # Runs at 00:00 every day
     - cron: '0 0 * * *'
   workflow_dispatch:
 
@@ -14,11 +13,12 @@ jobs:
     name: WakaTime Update
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SHOW_TIME: true
-          REPOSITORY: ""
           LANG_COUNT: 10
-          IGNORED_LANGUAGES: Markdown YAML
+          IGNORED_LANGUAGES: "Markdown,YAML"
