@@ -3,7 +3,7 @@
 # 👋 Hello, I'm Louie Mendez
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!;Let's+build+something+great!;IT+Operations+%2B+Automation)](https://git.io/typing-svg)
 
-### Senior IT Administrator • Automation Engineer
+### Senior IT Administrator • Automation Developer
 
 
 ---
