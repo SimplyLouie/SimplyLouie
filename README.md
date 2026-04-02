@@ -5,6 +5,7 @@
 
 ### Senior IT Administrator • Automation Developer
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=simplylouie)](https://git.io/streak-stats)
 
 ---
 Building secure systems and streamlining workflows for modern teams.
