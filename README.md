@@ -117,7 +117,6 @@ I help teams work **securely and efficiently** by improving IT operations, autom
 
 ### 📊 Weekly Coding Breakdown
 <!--START_SECTION:waka-->
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=simplylouie&layout=compact)](https://wakatime.com/@simplylouie)
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-84%20hrs%207%20mins-blue?style=flat)
 
