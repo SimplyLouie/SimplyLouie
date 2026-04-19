@@ -87,7 +87,7 @@ I help teams work **securely and efficiently** by improving IT operations, autom
 
 ## 📈 Activity & Stats
 
-<div align="center">
+<div align="left">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SimplyLouie&theme=github_dark">
