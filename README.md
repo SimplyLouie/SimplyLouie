@@ -14,13 +14,12 @@ Building secure systems and streamlining workflows for modern teams.
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SimplyLouie)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:inquiries.mendez@gmail.com)
 
+</div>
+
 > [!IMPORTANT]
 > **Official & Verified Presence**
 > Please note that the links listed above (Website, LinkedIn, GitHub, and Gmail) are my **only** official and verified platforms. Any other websites or profiles claiming to be me or representing me are not genuine.
 
-
-
-</div>
 
 ---
 
