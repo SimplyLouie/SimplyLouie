@@ -17,9 +17,8 @@ Building secure systems and streamlining workflows for modern teams.
 </div>
 
 > [!IMPORTANT]
-> **Official & Verified Presence**
-> Please note that the links listed above (Website, LinkedIn, GitHub, and Gmail) are my **only** official and verified platforms. Any other websites or profiles claiming to be me or representing me are not genuine.
-
+> **Official & Verified**
+> Please note that the links listed above are my **only** official and verified platforms. Any other websites or profiles claiming to be me or representing me are not genuine.
 
 ---
 
