@@ -1,10 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey,%20I'm%20Louie%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Senior%20IT%20Administrator%20%E2%80%A2%20Automation%20Developer&descAlignY=57&descSize=18)
+
 <div align="center">
-
-# 👋 Hello, I'm Louie
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!;Let's+build+something+great!;IT+Operations+%2B+Automation)](https://git.io/typing-svg)
-
-### Senior IT Administrator • Automation Developer
 
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-✅%20Available-brightgreen?style=for-the-badge)
 
