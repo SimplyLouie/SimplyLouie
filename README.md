@@ -79,9 +79,12 @@ I help teams work **securely and efficiently** by improving IT operations, autom
 
 <div align="left">
 
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud%20Certified-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Okta](https://img.shields.io/badge/Okta%20Certified-007DC1?style=for-the-badge&logo=okta&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft%20365%20Admin-0078D6?style=for-the-badge&logo=microsoft365&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n%20Certified-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Google Workspace Security](https://img.shields.io/badge/Google%20Workspace%20Security-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google Workspace Admin](https://img.shields.io/badge/Google%20Workspace%20Administration-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google%20Workspace-34A853?style=for-the-badge&logo=googleworkspace&logoColor=white)
+![Slack Admin](https://img.shields.io/badge/Slack%20Administration-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Okta Admin](https://img.shields.io/badge/Okta%20Administration-007DC1?style=for-the-badge&logo=okta&logoColor=white)
 
 </div>
 
@@ -98,29 +101,6 @@ I help teams work **securely and efficiently** by improving IT operations, autom
 - **Data Transformation**: Expert in **JSON** processing and **REST API** integrations.
 - **Full-Stack Automation**: Building "web functional" apps that connect user interfaces to automated backend logic.
 - **Enterprise Scale**: Managing 50+ active workflows with high uptime and error-handling.
-
-## 🔭 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/SimplyLouie/wedding-websites">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SimplyLouie&repo=wedding-websites&theme=tokyonight&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SimplyLouie&repo=wedding-websites&theme=default&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SimplyLouie&repo=wedding-websites&theme=default&hide_border=true" />
-  </picture>
-</a>
-<a href="https://github.com/SimplyLouie/SimplyLouie">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SimplyLouie&repo=SimplyLouie&theme=tokyonight&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SimplyLouie&repo=SimplyLouie&theme=default&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SimplyLouie&repo=SimplyLouie&theme=default&hide_border=true" />
-  </picture>
-</a>
-
-</div>
-
----
 
 ## 📈 Activity & Stats
 
