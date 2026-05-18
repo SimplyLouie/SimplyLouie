@@ -5,6 +5,8 @@
 
 ### Senior IT Administrator • Automation Developer
 
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-✅%20Available-brightgreen?style=for-the-badge)
+
 
 ---
 Building secure systems and streamlining workflows for modern teams.
@@ -73,6 +75,16 @@ I help teams work **securely and efficiently** by improving IT operations, autom
 
 </div>
 
+### 🏅 Certifications & Training
+
+<div align="left">
+
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud%20Certified-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Okta](https://img.shields.io/badge/Okta%20Certified-007DC1?style=for-the-badge&logo=okta&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft%20365%20Admin-0078D6?style=for-the-badge&logo=microsoft365&logoColor=white)
+
+</div>
+
 ## ⚡ Automation & Workflow Design
 
 <div align="center">
@@ -86,6 +98,29 @@ I help teams work **securely and efficiently** by improving IT operations, autom
 - **Data Transformation**: Expert in **JSON** processing and **REST API** integrations.
 - **Full-Stack Automation**: Building "web functional" apps that connect user interfaces to automated backend logic.
 - **Enterprise Scale**: Managing 50+ active workflows with high uptime and error-handling.
+
+## 🔭 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/SimplyLouie/wedding-websites">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SimplyLouie&repo=wedding-websites&theme=tokyonight&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SimplyLouie&repo=wedding-websites&theme=default&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SimplyLouie&repo=wedding-websites&theme=default&hide_border=true" />
+  </picture>
+</a>
+<a href="https://github.com/SimplyLouie/SimplyLouie">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SimplyLouie&repo=SimplyLouie&theme=tokyonight&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SimplyLouie&repo=SimplyLouie&theme=default&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SimplyLouie&repo=SimplyLouie&theme=default&hide_border=true" />
+  </picture>
+</a>
+
+</div>
+
+---
 
 ## 📈 Activity & Stats
 
@@ -116,6 +151,12 @@ I help teams work **securely and efficiently** by improving IT operations, autom
 </div>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=simplylouie)](https://git.io/streak-stats)
+
+<div align="center">
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SimplyLouie&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ### 📊 Weekly Coding Breakdown
 <!--START_SECTION:waka-->
@@ -158,4 +199,12 @@ CSS                      1 repo              █░░░░░░░░░░�
 <div align="center">
   <h3>Let's Connect!</h3>
   <p>I'm always open to discussing IT operations, automation, or identity management.</p>
+
+  [![Website](https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://louie.mendezdev.online/)
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louie-mendez/)
+  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SimplyLouie)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:inquiries.mendez@gmail.com)
+
+  <br/>
+  <sub>⭐ If you find my work useful, consider starring some repos!</sub>
 </div>
